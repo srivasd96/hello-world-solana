@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "ts-node src/client/main.ts"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.90.1",
+    "mz": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/mz": "^2.7.8",
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

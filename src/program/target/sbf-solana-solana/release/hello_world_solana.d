@@ -1,0 +1,1 @@
+/Users/srivasd/Desktop/Rust_solana_projects/hello_world_solana/src/program/target/sbf-solana-solana/release/hello_world_solana.so: /Users/srivasd/Desktop/Rust_solana_projects/hello_world_solana/src/program/src/lib.rs

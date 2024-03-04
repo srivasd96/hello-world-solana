@@ -1,0 +1,10 @@
+/Users/srivasd/Desktop/Rust_solana_projects/hello_world_solana/src/program/target/sbf-solana-solana/release/deps/getrandom-ca6e4f0d78b15542.rmeta: /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs
+
+/Users/srivasd/Desktop/Rust_solana_projects/hello_world_solana/src/program/target/sbf-solana-solana/release/deps/libgetrandom-ca6e4f0d78b15542.rlib: /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs
+
+/Users/srivasd/Desktop/Rust_solana_projects/hello_world_solana/src/program/target/sbf-solana-solana/release/deps/getrandom-ca6e4f0d78b15542.d: /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs
+
+/Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs:
+/Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs:
+/Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs:
+/Users/srivasd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/custom.rs:
